@@ -1,3 +1,24 @@
 <p><strong>Microcontrollers:</strong><br><i><strong>ESP32: </strong></i>A powerful and versatile microcontroller with Wi-Fi and Bluetooth connectivity, suitable for a wide range of IoT applications.<br><i><strong>STM32: </strong></i>A family of microcontrollers from STMicroelectronics, offering various performance levels and features.<br><i><strong>Atmel SAMD21</strong></i>: A low-power microcontroller with Arm Cortex-M0+ core, ideal for battery-powered devices.<br><i><strong>Nordic nRF52: </strong></i>A Bluetooth Low Energy (BLE) microcontroller, suitable for applications requiring low power consumption and wireless connectivity.<br><i><strong>Texas Instruments CC2640: </strong></i>A low-power microcontroller with Zigbee and BLE connectivity, ideal for smart home and industrial IoT applications.</p>
 <p><br><strong>System on a Chip (SoCs):</strong><br><i><strong>Raspberry Pi:</strong></i> A popular single-board computer with a variety of models, offering more processing power and memory than microcontrollers.<br><i><strong>NVIDIA Jetson Nano:</strong></i> A compact and powerful AI-focused SoC, suitable for more demanding IoT applications.<br><i><strong>Intel Edison:</strong></i> A small, low-power SoC with Wi-Fi and Bluetooth connectivity.<br><i><strong>MediaTek LinkIt 7688</strong></i>: A powerful SoC with Wi-Fi, Bluetooth, and cellular connectivity, suitable for IoT applications requiring high performance and connectivity.<br><i><strong>Qualcomm Snapdragon Wear: </strong></i>A family of SoCs designed for wearable devices, offering features like always-on display and GPS.</p>
 <p><br><strong>Application Processors:</strong><br><i><strong>MediaTek Helio: </strong></i>A family of SoCs for smartphones and tablets, also suitable for some IoT applications.<br><i><strong>Allwinner:</strong></i> A Chinese company that produces a variety of SoCs for IoT and consumer electronics.<br><i><strong>Amlogic: </strong></i>Another Chinese company that produces SoCs for IoT and consumer electronics.</p>
+<p>&nbsp;</p>
+<ul>
+    <li data-sourcepos="5:1-5:106"><a target="_blank" rel="noopener noreferrer" href="https://developer.nvidia.com/cuda-toolkit"><strong>CUDA Toolkit</strong></a>
+        <response-element _nghost-ng-c2158207078="" ng-version="0.0.0-PLACEHOLDER">
+            <link-block class="ng-star-inserted" _ngcontent-ng-c2158207078=""><a target="_blank" rel="noopener" externallink="" _nghost-ng-c3571150449="" jslog="197247;track:generic_click,impression;BardVeMetadataKey:[[&quot;r_df213e70a73739f1&quot;,&quot;c_eed1e85b905f162e&quot;,null,&quot;rc_f93c1a5a2e86c306&quot;,null,null,&quot;en&quot;,null,1,null,null,0,0]]" href="https://developer.nvidia.com/cuda-toolkit">https://developer.nvidia.com/cuda-toolkit</a></link-block>
+        </response-element>
+    </li>
+    <li data-sourcepos="6:1-6:31"><a target="_blank" rel="noopener noreferrer" href="https://developer.nvidia.com/embedded/jetson-developer-kits"><strong>Jetson Developer Center</strong></a>
+        <response-element _nghost-ng-c2158207078="" ng-version="0.0.0-PLACEHOLDER">
+            <link-block class="ng-star-inserted" _ngcontent-ng-c2158207078=""><a target="_blank" rel="noopener" externallink="" _nghost-ng-c3571150449="" jslog="197247;track:generic_click,impression;BardVeMetadataKey:[[&quot;r_df213e70a73739f1&quot;,&quot;c_eed1e85b905f162e&quot;,null,&quot;rc_f93c1a5a2e86c306&quot;,null,null,&quot;en&quot;,null,1,null,null,0,0]]" href="https://developer.nvidia.com/embedded/jetson-developer-kits">https://developer.nvidia.com/embedded/jetson-developer-kits</a></link-block>
+        </response-element>
+    </li>
+    <li data-sourcepos="7:1-8:0"><a target="_blank" rel="noopener noreferrer" href="https://forums.developer.nvidia.com/"><strong>NVIDIA Developer Forums</strong></a>
+        <response-element _nghost-ng-c2158207078="" ng-version="0.0.0-PLACEHOLDER">
+            <link-block class="ng-star-inserted" _ngcontent-ng-c2158207078=""><a target="_blank" rel="noopener" externallink="" _nghost-ng-c3571150449="" jslog="197247;track:generic_click,impression;BardVeMetadataKey:[[&quot;r_df213e70a73739f1&quot;,&quot;c_eed1e85b905f162e&quot;,null,&quot;rc_f93c1a5a2e86c306&quot;,null,null,&quot;en&quot;,null,1,null,null,0,0]]" href="https://forums.developer.nvidia.com/">https://forums.developer.nvidia.com/</a></link-block>
+        </response-element>
+        <response-element _nghost-ng-c2158207078="" ng-version="0.0.0-PLACEHOLDER">
+            <link-block class="ng-star-inserted" _ngcontent-ng-c2158207078=""><a target="_blank" rel="noopener" externallink="" _nghost-ng-c3571150449="" jslog="197247;track:generic_click,impression;BardVeMetadataKey:[[&quot;r_df213e70a73739f1&quot;,&quot;c_eed1e85b905f162e&quot;,null,&quot;rc_f93c1a5a2e86c306&quot;,null,null,&quot;en&quot;,null,1,null,null,0,0]]" href="https://forums.developer.nvidia.com/"></a></link-block>
+        </response-element>
+    </li>
+</ul>
